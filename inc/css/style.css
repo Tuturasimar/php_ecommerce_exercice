@@ -1,0 +1,23 @@
+main > .container {
+  padding-top: 60px;
+  min-height: 100vh;
+  margin: 0 auto;
+}
+
+.containerWidth {
+  max-width: 100%;
+}
+
+.imgLittle {
+  height: 200px;
+  object-fit: cover;
+}
+
+.imgDetail {
+  max-height: 400px;
+  max-width: 400px;
+}
+
+.boxProduct {
+  min-height: 60vh;
+}
