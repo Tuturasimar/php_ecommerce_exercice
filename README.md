@@ -23,3 +23,10 @@ En procédural, créer des fonctionnalités pour un prototype de site E-commerce
   - Validation du panier -> la commande et le détail de la commande transmis en BDD
   
   - Côté admin : possibilité de gérer les produits, les commandes et les membres (CRUD)
+
+### Langages et outils utilisés
+
+  - HTML5 - CSS3
+  - PHP
+  - JS
+  - MySQL
